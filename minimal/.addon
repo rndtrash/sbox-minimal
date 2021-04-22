@@ -1,0 +1,19 @@
+{
+		"name": "minimal",
+		"sharedassets": "*.*",
+		
+		"depends": 
+		[
+			"base",
+			"citizen",
+			"rust"
+		],
+
+		"gamemodes":
+		[
+			{
+				"name": "minimal",
+				"title": "minimal"
+			}
+		]
+}
